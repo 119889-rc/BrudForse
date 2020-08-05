@@ -1,4 +1,4 @@
-package brudfors.lesson1;
+package brudfors;
 
 import java.util.ArrayList;
 import java.util.List;
