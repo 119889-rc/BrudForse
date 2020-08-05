@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jcupRu_ProtectedBox-JcupRu">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../jcupRu_ProtectedBox-JcupRu.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../jcupRu_ProtectedBox-JcupRu.jar!/" />
+    </SOURCES>
+  </library>
+</component>
